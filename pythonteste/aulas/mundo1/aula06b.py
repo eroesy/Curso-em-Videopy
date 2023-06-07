@@ -1,0 +1,5 @@
+algo = input('Digite algo: ')
+print(type(algo))
+print("{} é numerico?:".format(algo),algo.isnumeric())
+print('{} ta em caixa alta?:'.format(algo), algo.isupper())
+print('{} é alfabetico?:'.format(algo), algo.isalpha())

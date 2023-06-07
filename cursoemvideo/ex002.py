@@ -1,0 +1,6 @@
+print('Olá tudo bem?')
+nome = input('Qual o seu nome?: ')
+ano = int(input('Em que ano você nasceu?: '))
+mes = input('Seu mês de nascimento?: ')
+print('Seja bem vinda {}!'.format(nome),nome,'você nasceu no ano de {},'.format( ano),'no mês de {}.'.format(mes),'Você tem então,', int(2023) - (ano),"anos")
+print('ebaaaaaaa.{} VOCÊ É A MELHORZINHA  UHHUUUU'.format(nome))
